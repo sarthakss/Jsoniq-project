@@ -1,0 +1,43 @@
+{
+    "student": [
+        {
+            "s": "G0017",
+            "name": "Tom",
+            "major": "CS"
+        }
+    ],
+    "course": [
+        {
+            "co": "CS530",
+            "title": "math foundations",
+            "credits": 3
+        }
+    ],
+    "class": [
+        {
+            "cl": "11427",
+            "co": "cs530",
+            "instr": "Brodsky"
+        }
+    ],
+    "transcript": [
+        {
+            "s": "G0017",
+            "co": "CS530",
+            "grade": "A",
+            "se": "2015-16-1"
+        }
+    ],
+    "enrolled": [
+        {
+            "s": "G0017",
+            "cl": "11427"
+        }
+    ],
+    "prereq": [
+        {
+            "co": "CS550",
+            "pre": "CS530"
+        }
+    ]
+}
